@@ -1,0 +1,1 @@
+This project aims to develop a system that detects eye movements and generates corresponding graphs to aid in diagnosing dyslexia. By analyzing patterns in eye movement, this tool can assist doctors and medical professionals in identifying signs of dyslexia, contributing to more accurate and timely diagnoses.
